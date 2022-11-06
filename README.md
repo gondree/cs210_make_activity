@@ -1,2 +1,2 @@
 # make activity
-A lesson using make
+A lesson on using make
